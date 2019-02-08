@@ -4,6 +4,7 @@ Jest to mój pierwszy projekt multiplayer także ze względu na to, iż pisząc 
 
 W grze brakuje wielu dzwięków i animacji, gdyż nie dodawałem ich ze względu na to, że nie na tym skupiał sie ten projekt.
 
+Mam świadomość że powinienem częściej używać stałych i przy następnym projekcie postaram sie bardziej zwracać na to uwage.
 
 Instruckcja dolączania do gry, gdy wyszukiwarka gier nie działa:
 
