@@ -53,7 +53,7 @@ void AProjectileWeapon::ServerShot_Implementation()
 			const FVector SpawnLocation = FP_MuzzleLocation->GetComponentLocation();
 
 			FActorSpawnParameters ActorSpawnParams;
-			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AdjustIfPossibleButDontSpawnIfColliding;
+			ActorSpawnParams.SpawnCollisionHandlingOverride = ESpawnActorCollisionHandlingMethod::AlwaysSpawn;
 			ActorSpawnParams.Owner = this;
 
 			World->SpawnActor<AFPSCoopProjectile>(Projectile->GetAmmoType(), SpawnLocation, SpawnRotation, ActorSpawnParams);
