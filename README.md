@@ -1,6 +1,6 @@
 # FPSCoop
 
-Jest to mój pierwszy projekt multiplayer także ze względu na to, iż pisząc niektóre skypty nie spodziewałem się, że niektóre funkcjonalności multiplayer działają w pewien sposób, te skrypty mogą być napisane w dziwny sposób i z juz zdobytym doświadczeniem napisałbym bym je lepiej.
+Jest to mój pierwszy projekt multiplayer także ze względu na to, iż pisząc niektóre skypty nie spodziewałem się, że niektóre funkcjonalności multiplayer działają w pewien sposób, te skrypty mogą być napisane w dziwny sposób i z juz zdobytym doświadczeniem napisałbym bym je lepiej. Czas spędzony nad projektem: około 7 dni z czego 5 dni na testowaniu kodu na multiplayerze i poprawaniu go pod niego.
 
 W grze brakuje wielu dzwięków i animacji, gdyż nie dodawałem ich ze względu na to, że nie na tym skupiał sie ten projekt.
 
